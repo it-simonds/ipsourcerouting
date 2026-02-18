@@ -1,0 +1,14 @@
+============================================================
+Execution Time: 20260218-114729
+Computer Name: SHL-BOR42HK4EJU
+User Context: DOMAIN\adm_brian
+Detected OS ProductType: 1
+Registry Path: HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+Registry Value Name: DisableIPSourceRouting
+Registry Key Exists: True
+Value Previously Existed: True
+Previous Value: 2
+Set DisableIPSourceRouting to 2 successfully.
+Current Value After Change: 2
+Script Completed Successfully.
+============================================================
